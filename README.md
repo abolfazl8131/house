@@ -1,2 +1,2 @@
 # house
-house ocean proximity prediction
+house price prediction
